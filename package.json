@@ -6,5 +6,9 @@
     "type": "git",
     "url": "?.git"
   },
-  "author": "James DiMaggio"
+  "author": "James DiMaggio",
+  "devDependencies": {
+    "gulp": "^3.8.5",
+    "gulp-util": "^2.2.19"
+  }
 }
